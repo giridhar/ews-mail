@@ -1,0 +1,6 @@
+[ews-mail]
+host=servername without protocol, e.g. your.exchange.host.org
+path=webservice path, e.g. http://mail.example.com/ews/Exchange.asmx
+username=username
+password=password
+timezone=Asia/kolkata
